@@ -4,6 +4,7 @@
   * File note: https://www.notion.so/Git-bbe19eefc60f4566938ecc5c6f03c8bc?pvs=4
 2. Tải android studio
 3. Setup java sdk
+ * ![image](https://github.com/user-attachments/assets/bff0455e-7bb0-42d8-832b-1c0f10ada4b4)
 4. Tạo và run thành công project java app 
 5. Tạo github
 6.Tạo repository mới
